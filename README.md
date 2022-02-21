@@ -34,6 +34,14 @@ MAIL_PASSWORD=
 MAIL_ENCRYPTION=tls
 
 ```
+<p>example .env :</p>
+
+![env](https://user-images.githubusercontent.com/59783691/154884554-286d77da-d3c6-4603-a9ae-2843a4befc5f.PNG)
+
+
+```
+
+```
  <p>Import file database & postman collection terlebih dahulu: </p>
 
 ![postman](https://user-images.githubusercontent.com/59783691/154883892-959a4c10-ace6-40fe-b17f-31dc5e0539b9.PNG)
